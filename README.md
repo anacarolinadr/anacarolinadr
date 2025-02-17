@@ -9,8 +9,8 @@
   />
   <img 
     width="50%" 
-    height="200px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolinadr&layout=compact&hide_border=true&title_color=464a4f&text_color=464a4f&bg_color=FFFFFF" />
+    height="202px" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolinadr&layout=compact&theme=graywhite" />
 </div>
 
 ### Conheça um pouco sobre mim! | Learn more about me!
