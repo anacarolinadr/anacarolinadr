@@ -45,6 +45,7 @@
       <div style="display: flex; justify-content:space-between;">
         <p></p>
           <img width="4%" src="https://www.svgrepo.com/show/353924/java.svg">
+          <img width="4%" src="https://www.svgrepo.com/show/353805/google-cloud.svg">
         <p></p>
       </div>
 
