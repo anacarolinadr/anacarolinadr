@@ -5,12 +5,12 @@
     alt="GitHub Stats" 
     height="200px"
     width="46%"
-    src="https://github-readme-stats.vercel.app/api?username=anacarolinadr&show_icons=true&theme=graywhite&include_all_commits=true&locale=en" 
+    src="https://github-readme-stats.vercel.app/api?username=anacarolinadr&show_icons=true&theme=apprentice&include_all_commits=true&locale=en" 
   />
   <img 
     width="50%" 
     height="202px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolinadr&layout=compact&theme=graywhite" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolinadr&layout=compact&theme=apprentice" />
 </div>
 
 ### Conheça um pouco sobre mim! | Learn more about me!
@@ -22,7 +22,6 @@
           <img width="4%" src="https://www.svgrepo.com/show/373669/html.svg">
           <img width="4%" src="https://www.svgrepo.com/show/452185/css-3.svg">
           <img width="4%" src="https://www.svgrepo.com/show/349419/javascript.svg">
-          <img width="4%" src="https://www.svgrepo.com/show/349540/typescript.svg">
           <img width="4%" src="https://www.svgrepo.com/show/452092/react.svg">
           <img width="4%" src="https://www.svgrepo.com/show/349585/amazon-alexa.svg">
         <p></p>
