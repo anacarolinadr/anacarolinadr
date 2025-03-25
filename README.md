@@ -5,12 +5,12 @@
     alt="GitHub Stats" 
     height="200px"
     width="46%"
-    src="https://github-readme-stats.vercel.app/api?username=anacarolinadr&show_icons=true&theme=apprentice&include_all_commits=true&locale=en" 
+    src="https://github-readme-stats.vercel.app/api?username=anacarolinadr&show_icons=true&theme=darcula&include_all_commits=true&locale=en" 
   />
   <img 
     width="50%" 
     height="202px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolinadr&layout=compact&theme=apprentice" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolinadr&layout=compact&theme=darcula" />
 </div>
 
 ### Conheça um pouco sobre mim! | Learn more about me!
