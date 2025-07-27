@@ -5,12 +5,12 @@
     alt="GitHub Stats" 
     height="200px"
     width="46%"
-    src="https://github-readme-stats.vercel.app/api?username=anacarolinadr&show_icons=true&theme=onedark&include_all_commits=true&locale=en" 
+    src="https://github-readme-stats.vercel.app/api?username=anacarolinadr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
   <img 
     width="50%" 
     height="202px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolinadr&layout=compact&theme=onedark" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolinadr&layout=compact&theme=tokyonight" />
 </div>
 
 ### Conheça um pouco sobre mim! | Learn more about me!
@@ -22,7 +22,9 @@
           <img width="4%" src="https://www.svgrepo.com/show/373669/html.svg">
           <img width="4%" src="https://www.svgrepo.com/show/452185/css-3.svg">
           <img width="4%" src="https://www.svgrepo.com/show/349419/javascript.svg">
+          <img width="4%" src="https://www.svgrepo.com/show/376337/node-js.svg">
           <img width="4%" src="https://www.svgrepo.com/show/452092/react.svg">
+          <img width="4%" src="https://www.svgrepo.com/show/353924/java.svg">
           <img width="4%" src="https://www.svgrepo.com/show/349585/amazon-alexa.svg">
         <p></p>
       </div>
@@ -43,8 +45,8 @@
   <summary><strong>Estou aprendendo | I'm learning</strong></summary>  
       <div style="display: flex; justify-content:space-between;">
         <p></p>
-          <img width="4%" src="https://www.svgrepo.com/show/353924/java.svg">
-          <img width="4%" src="https://www.svgrepo.com/show/353805/google-cloud.svg">
+          <img width="4%" src="https://www.svgrepo.com/show/355133/mysql.svg">
+          <img width="4%" src="https://www.svgrepo.com/show/353724/express.svg">
         <p></p>
       </div>
 
