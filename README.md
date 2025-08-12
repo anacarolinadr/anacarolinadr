@@ -46,7 +46,7 @@
       <div style="display: flex; justify-content:space-between;">
         <p></p>
           <img width="4%" src="https://www.svgrepo.com/show/355133/mysql.svg">
-          <img width="4%" src="https://www.svgrepo.com/show/353724/express.svg">
+          <img width="4%" src="https://www.svgrepo.com/show/374146/typescript-official.svg">
         <p></p>
       </div>
 
