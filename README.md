@@ -1,6 +1,4 @@
-<p align="center">
 <i> Hi! I'm Ana Carolina Andrade, Computer Science student and developer </i>
-</p>
 
 <p align="center">
   <i>Core Skills</i><br><br>
